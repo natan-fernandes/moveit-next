@@ -34,16 +34,6 @@ a {
     text-decoration: none;
 }
 
-.container {
-    height: 100vh;
-    max-width: 992px;
-    margin: 0 auto;
-    padding: 2.5rem 2.5rem;
-
-    display: flex;
-    flex-direction: column;
-}
-
 :root {
     --white:#fff;
     --background: #f2f3f5;
